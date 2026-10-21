@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.20/phyloxml.xsd" xmlns="http://www.phyloxml.org">
+ <phylogeny rooted="true" rerootable="true">
+  <clade>
+   <clade>
+    <branch_length>0.002</branch_length>
+    <clade>
+     <branch_length>0.0063</branch_length>
+     <clade>
+      <branch_length>0.007</branch_length>
+      <clade>
+       <name>6_CAA25899_1_cytochrome_c__Mus_musculus</name>
+      </clade>
+      <clade>
+       <name>7_AAA21711_1_cytochrome_c__Rattus_norvegicus</name>
+      </clade>
+     </clade>
+     <clade>
+      <branch_length>0.0131</branch_length>
+      <clade>
+       <name>9_NP_001039526_1_cytochrome_c__Bos_taurus</name>
+       <branch_length>0.0098</branch_length>
+      </clade>
+      <clade>
+       <name>8_NP_001183974_1_cytochrome_c__Canis_lupus_familiaris</name>
+       <branch_length>0.0206</branch_length>
+      </clade>
+     </clade>
+    </clade>
+    <clade>
+     <name>2_XP_009429932_1_cytochrome_c__Pan_troglodytes</name>
+     <branch_length>0.0716</branch_length>
+    </clade>
+   </clade>
+   <clade>
+    <branch_length>0.0002</branch_length>
+    <clade>
+     <branch_length>0.0648</branch_length>
+     <clade>
+      <branch_length>0.0086</branch_length>
+      <clade>
+       <clade>
+        <name>1_NP_061820_1_cytochrome_c__Homo_sapiens</name>
+       </clade>
+       <clade>
+        <name>3_AEP27192_1_cytochrome_c__Gorilla_gorilla</name>
+       </clade>
+      </clade>
+      <clade>
+       <name>4_NP_001124639_1_cytochrome_c__Pongo_abelii</name>
+      </clade>
+     </clade>
+     <clade>
+      <name>5_XP_028701782_1_cytochrome_c__Macaca_mulatta</name>
+      <branch_length>0.0013</branch_length>
+     </clade>
+    </clade>
+    <clade>
+     <name>10_NP_001385227_1_cytochrome_c__Gallus_gallus</name>
+     <branch_length>0.0664</branch_length>
+    </clade>
+   </clade>
+  </clade>
+ </phylogeny>
+</phyloxml>
+
+
